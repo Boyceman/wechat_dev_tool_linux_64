@@ -1,2 +1,2 @@
-# wechat_dev_tool_linux_64
-wechat dev tool linux64 transplant
+# wechat devtool linux 64
+wechat devtool linux64 transplant
