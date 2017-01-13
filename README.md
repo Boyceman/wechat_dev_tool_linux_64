@@ -2,7 +2,7 @@
 wechat devtool linux64 transplant
 >
 - linux 64(my OS is mint 18.1)
-- [wine 1.8.6](http://mirrors.ibiblio.org/wine/source/1.8/wine-1.8.6.tar.bz2) (if you don't installed it, install it)
+- [wine 1.8.6](http://mirrors.ibiblio.org/wine/source/1.8/wine-1.8.6.tar.bz2) (if you have not installed it, install it)
 
 ## usage
 1. `git clone https://github.com/Boyceman/wechat_dev_tool_linux_64.git`
