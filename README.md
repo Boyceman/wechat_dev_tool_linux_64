@@ -16,7 +16,7 @@ wechat devtool linux64 transplant
 3. type command `./nw &`
 
 ## tip
-this program is so big, becourse i can't find dependents in `package.json`, so i upload all files include `/node_modules`
+this program is so big, becourse this devtool is transplanted from OS X, i found package fsevents that can only be used in OS X, and i can't find which package references. so i uploaded all files include `/node_modules`
 
 Ensure that the agent in wechat_devtool is shut down. like this
 ![where is the agent in wechat_devtool](/readme_local/wechat.png)
