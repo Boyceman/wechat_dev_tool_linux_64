@@ -3,6 +3,12 @@
   "name":"微信web开发者工具",
   "appname":"wechatwebdevtools",
   "version":"0.12.130400",
+  "keywords": [
+    "wechat",
+    "wechat_devtool",
+    "wechat_devtool_linux",
+    "微信小程序"
+  ],
   "window":{
      "title":"微信web开发者工具 v0.12.130400",
      "toolbar":true,
