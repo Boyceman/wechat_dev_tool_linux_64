@@ -17,3 +17,6 @@ wechat devtool linux64 transplant
 
 ## tip
 this program is so big, becourse i can't find dependents in `package.json`, so i upload all files include `/node_modules`
+
+Ensure that the agent in wechat_devtool is shut down. like this
+![where is the agent in wechat_devtool](/readme_local/wechat.png)
