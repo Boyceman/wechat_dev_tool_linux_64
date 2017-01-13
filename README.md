@@ -9,3 +9,5 @@ wechat devtool linux64 transplant
 2. `cd nwjs-wechat-dev-tool`
 3. `./nw &`
 
+## tip
+this program is so big, becourse i can't find dependents in package.json, so i uload all files include /node_module
