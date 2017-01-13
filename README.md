@@ -10,4 +10,4 @@ wechat devtool linux64 transplant
 3. `./nw &`
 
 ## tip
-this program is so big, becourse i can't find dependents in package.json, so i uload all files include /node_module
+this program is so big, becourse i can't find dependents in package.json, so i upload all files include /node_module
